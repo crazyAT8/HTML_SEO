@@ -1,0 +1,13 @@
+URL: https://www.youtube.com/watch?v=ORazAn-Iigg&t=2s
+title: SEO & HTML guide for 2024
+
+
+- uses 
+    developers.google.com
+        SEO starter guide
+    W3C.org
+        accessibility
+
+- HTML is not a design language
+
+- make the structure really easy to understand
